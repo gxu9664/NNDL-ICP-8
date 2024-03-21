@@ -12,3 +12,6 @@ In class programming:
 Also, visualize the same test data before reconstruction using Matplotlib
 3. Repeat the question 2 on the denoisening autoencoder
 4. plot loss and accuracy using the history object
+
+Video Link:
+https://drive.google.com/drive/u/2/folders/19RLHHbEYWLg_zAscYjTnlbVFIZUA3kab
